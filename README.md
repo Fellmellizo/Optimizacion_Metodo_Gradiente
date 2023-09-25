@@ -45,6 +45,7 @@ Clasificación de Correos Electrónicos como Spam o No Spam:
 
 Problema: Dado un conjunto de correos electrónicos etiquetados, determina si un nuevo correo electrónico es spam o no.
 Solución: Usar regresión logística y optimizar la función de coste con Descenso de Gradiente.
+
 Recomendación de Películas a Usuarios:
 
 Problema: Basándose en las calificaciones anteriores de los usuarios a diferentes películas, recomendar una lista de películas que es probable que un usuario específico disfrute.
@@ -53,35 +54,30 @@ Solución: Usar factorización de matrices (como en sistemas de filtrado colabor
 Segmentación de Clientes:
 
 Problema: Dado un conjunto de datos sobre el comportamiento de compra de clientes, segmenta a los clientes en grupos distintos para marketing dirigido.
-
 Solución: Utilizar el algoritmo K-means, que emplea Descenso de Gradiente durante la optimización, para identificar clusters de clientes.
+
 Reconocimiento de Imágenes:
 
 Problema: Clasificar imágenes en categorías específicas (por ejemplo, perro, gato, coche).
-
 Solución: Utilizar Redes Neuronales Convolucionales (CNN) y entrenar el modelo usando variantes del Descenso de Gradiente.
 
 Traducción Automática:
 
 Problema: Traducir un texto de un idioma a otro automáticamente.
-
 Solución: Usar modelos de secuencia a secuencia (como LSTM o Transformer) y entrenarlos con Descenso de Gradiente.
 
 Optimización de Rutas de Entrega:
 
 Problema: Dada una lista de ubicaciones, determinar la ruta más corta o eficiente para visitar todas las ubicaciones y regresar al punto de partida.
-
 Solución: Aunque el Problema del Viajante es NP-hard, algunas heurísticas basadas en Descenso de Gradiente podrían ser útiles para encontrar soluciones aproximadas en ciertos contextos.
 
 Modelado Molecular y de Proteínas:
 
 Problema: Predice la estructura 3D de una proteína o molécula basándote en su secuencia o fórmula química.
-
 Solución: Utilizar técnicas de optimización para minimizar la energía potencial, donde el Descenso de Gradiente puede ser una herramienta valiosa.
 
 Optimización de Campañas Publicitarias:
 
 Problema: Dado un presupuesto y un conjunto de canales publicitarios con diferentes costos y rendimientos, determina cómo distribuir el presupuesto para maximizar el retorno de la inversión.
-
 Solución: Formular el problema como una función objetivo y utilizar Descenso de Gradiente para encontrar la distribución óptima del presupuesto.
 
